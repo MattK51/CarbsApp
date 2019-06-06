@@ -1,0 +1,17 @@
+https://remotemysql.com/databases.php
+
+
+
+
+You have successfully created a new database. The details are below.
+
+Username: 0FxTyioZ4Z
+
+Database name: 0FxTyioZ4Z
+
+Password: krdhosB0D3
+
+Server: remotemysql.com
+
+Port: 3306
+
